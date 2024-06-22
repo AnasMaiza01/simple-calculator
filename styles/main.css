@@ -67,6 +67,8 @@ body {
     margin: 0 auto;
     box-shadow: inset -5px -5px green;
     font-size: 30px;
+    overflow: hidden;
+    text-wrap: nowrap;
 }
 
 #buttons {
